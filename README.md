@@ -5,4 +5,4 @@ Optical character recognition (also optical character reader, OCR) is the mechan
 
 ## A Demo View
 
-![OCR](https://pdfimages.wondershare.com/top-pdf-software/supergeek-free-document-ocr.png)
+![OCR](Screenshot 2020-07-21 at 3.06.20 AM.png)
